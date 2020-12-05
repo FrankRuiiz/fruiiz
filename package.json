@@ -1,5 +1,5 @@
 {
-	"name": "frank",
+	"name": "frankruiz",
 	"version": "1.0.0",
 	"bin": {
 		"frank": "index.js"
